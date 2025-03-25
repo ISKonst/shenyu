@@ -49,6 +49,8 @@
         <module>shenyu-plugin-proxy</module>
         <module>shenyu-plugin-security</module>
         <module>shenyu-plugin-fault-tolerance</module>
+        <module>shenyu-plugin-ai-proxy</module>
+        <module>shenyu-plugin-ai-token-limiter</module>
     </modules>
 
     <dependencies>

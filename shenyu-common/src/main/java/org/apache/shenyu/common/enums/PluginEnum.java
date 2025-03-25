@@ -266,6 +266,16 @@ public enum PluginEnum {
      * Key-auth plugin enum.
      */
     KEY_AUTH(430, 0, "keyAuth"),
+
+    /**
+     * Ai-proxy plugin enum.
+     */
+    AI_PROXY(199, 0, "aiProxy"),
+
+    /**
+     * Ai-token-limiter plugin enum.
+     */
+    AI_TOKEN_LIMITER(171, 0, "aiTokenLimiter"),
     
     /**
      * Basic-auth plugin enum.
